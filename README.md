@@ -9,6 +9,8 @@ The 2 books are written by Alexey Vasiliev for learning the basics of C# in exam
 10 chapters, at the end of each - 10 project tasks. (I strongly recommend this book for laying the groundwork of your learning.
 After reading this book, I continued with the next book:
 
+
 ![image](https://github.com/user-attachments/assets/75c04a81-bf9d-428d-bd53-70bba3e44987)
 
 Extended capabilities of C# in examples. 9 chapters, at the end of each - 10 project tasks. Excellent for giving you a better conception of what the programming language can do.
+As said before, I will include only my favorite projects - projects that are slightly more comlex than the other.
